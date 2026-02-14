@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Photography Portfolio",
+  "description": "A high-end, minimal photography portfolio with automated Instagram integration, dynamic gallery, and a secure admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
